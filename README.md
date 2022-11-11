@@ -1,7 +1,10 @@
-# proyecto-monolitico
+# proyecto universidad (versión aplicación monolítica)
 
-###`npm start`
-Comando para levantar la aplicación Se abre en la URL http://localhost:5002/ de tu navegador
+### `npm start`
+
+Comando para levantar la aplicación 
+
+Se abre en la URL http://localhost:5002/ de tu navegador
 
 Aplicación monolítica del proyecto universidad.
 Sirve para los siguientes URL (router) con sus servicios Get, Post y Put:
